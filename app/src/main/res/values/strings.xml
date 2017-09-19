@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Menu</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_item1">item1</string>
+    <string name="action_item2">item2</string>
+    <string name="action_item3">item3</string>
+    <string name="action_item4">Не Нажимай</string>
+    <string name="checkBox1">Отобразить группу</string>
+    <string name="checkBox2">Отобразить меню</string>
+    <string name="chb1_new">И такое</string>
+    <string name="chb2_new">Тоже можно</string>
+    <string name="txtV2">TextView2</string>
+    <string name="txtV3">TextView3</string>
+</resources>
